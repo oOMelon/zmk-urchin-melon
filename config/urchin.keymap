@@ -149,7 +149,7 @@
             &bt BT_CLR  &bt BT_PRV &bt BT_NXT &kp R &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &kp LEFT_BRACKET
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  A       │  S       │  D       │  F       │  G       │   │  H       │  J       │  K       │  L       │  Ä       │
-      &kp bootloader   &kp S &kp LS(BACKSLASH) &kp BACKSLASH &kp G   &kp H     &kp LS(MINUS) &kp MINUS &kp L   &kp SINGLE_QUOTE
+      &bootloader   &kp S &kp LS(BACKSLASH) &kp BACKSLASH &kp G   &kp H     &kp LS(MINUS) &kp MINUS &kp L   &kp SINGLE_QUOTE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  Z       │  X       │  C       │  V       │  B       │   │  N       │  M       │ , <      │ . >      │ ENTER    │
    &out OUT_TOG &out OUT_BLE &kp C    &kp V   &kp RA(RIGHT_BRACKET)  &kp LS(BACKSLASH) &kp BACKSLASH &kp LS(COMMA) &kp LS(DOT) &kp LS(SLASH)
